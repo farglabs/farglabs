@@ -4,6 +4,8 @@
 
 ### You've reached the GitHub profile of FargLabs / [Vilmal](https://www.vilmal.com/)
   
-[<img src="https://uploads-ssl.webflow.com/5da1500e5ac6b059c918c38a/5da150c861e6693a276c0f08_icon_vilmal-p-500.png" width="100pxl">](https://www.vilmal.com/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farglabs&layout=default&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://uploads-ssl.webflow.com/5da1500e5ac6b059c918c38a/5da150c861e6693a276c0f08_icon_vilmal-p-500.png" width="100pxl">](https://www.vilmal.com/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farglabs&layout=default&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
