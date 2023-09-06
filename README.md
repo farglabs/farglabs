@@ -13,6 +13,7 @@
 | Python   | https://github.com/farglabs?tab=repositories&language=python |
 | PowerShell | https://github.com/farglabs?tab=repositories&language=powershell |
 | PHP      | https://github.com/farglabs?tab=repositories&language=php |
+| C#       | https://github.com/farglabs?tab=repositories&language=csharp |
 | Rust     | https://github.com/farglabs?tab=repositories&language=rust |
 
 
