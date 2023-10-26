@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## You've reached the GitHub profile of FargLabs / [Vilmal](https://www.vilmal.com/)
+## You've reached the GitHub profile page of FargLabs / [Vilmal](https://www.vilmal.com/)
   
 [<img src="https://uploads-ssl.webflow.com/5da1500e5ac6b059c918c38a/5da150c861e6693a276c0f08_icon_vilmal-p-500.png" width="100pxl">](https://www.vilmal.com/)
 
